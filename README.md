@@ -1,4 +1,4 @@
-# LATIN FORUM
+# LATIN BLOG
 
 ## Dependencies
 
