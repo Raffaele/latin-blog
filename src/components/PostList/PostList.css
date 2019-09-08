@@ -1,0 +1,22 @@
+.post-list__title {
+    text-align: center;
+}
+
+.post-list__list-item {
+    padding-bottom: 20px;
+    vertical-align: top;
+    overflow: auto;
+}
+
+.post-list__list-item__post-author {
+    margin-right: 20px;
+    float: left;
+}
+
+.post-list__list-item__post-title {
+    font-size: 50px;
+    vertical-align: top;
+    display: inline;
+}
+
+

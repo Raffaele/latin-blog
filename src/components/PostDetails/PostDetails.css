@@ -1,0 +1,22 @@
+.post-details__header {
+    text-align: center;
+}
+.post-details__header__title {
+    display: inline-block;
+    width: 80%;
+}
+
+.post-details__header__home-link {
+    float: right;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.post-details__synthesis {
+    overflow: auto;
+}
+
+.post-details__synthesis__post-author {
+    float: left;
+    padding-right: 15px;
+}

@@ -1,0 +1,18 @@
+.comment-details {
+    border: 1px blue solid;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.comment-details__author {
+    background-color: blue;
+    padding: 10px 5px;
+}
+
+.comment-details__author__link {
+    color: white;
+}
+
+.comment-details__body {
+    padding: 5px 10px;
+}
